@@ -17,7 +17,7 @@
     <description>Backen of projectX</description>
 
     <properties>
-        <posrgesql.version>42.2.12</posrgesql.version>
+        <posrgesql.version>42.4.1</posrgesql.version>
         <java.version>11</java.version>
     </properties>
 
